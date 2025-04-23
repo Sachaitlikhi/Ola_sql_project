@@ -46,6 +46,7 @@ CREATE TABLE July_data
     Incomplete_Rides_Reason  VARCHAR(255),
     Canceled_Rides_by_Driver VARCHAR(255)
 );
+```
 
 
 
